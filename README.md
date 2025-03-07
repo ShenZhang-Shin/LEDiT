@@ -1,6 +1,6 @@
 ## LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding<br><sub>Official PyTorch Implementation</sub>
 
-### [Paper](https://arxiv.org/abs/2311.17528) | [Project Page](https://shenzhang2145.github.io/ledit/)
+### [Paper](https://arxiv.org/abs/2503.04344) | [Project Page](https://shenzhang2145.github.io/ledit/)
 
 ![LEDiT samples](visuals/image_gallery.jpg)
 
